@@ -4,7 +4,7 @@ Welcome to the official GitHub organization for **FAST-CS23** — a group of Com
 
 We use this space to **host, collaborate on, and document our semester projects** across various university courses.
 
-## Purpose54
+## Purpose
 
 - Centralized collaboration for course projects
 - Knowledge sharing and code reusability
